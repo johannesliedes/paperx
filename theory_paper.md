@@ -25,25 +25,10 @@ pandoc theory_paper.md -o theory_paper.pdf
  
 ## An example
 - [russian string bag](http://en.wikipedia.org/wiki/String_bag)
-| content | year |
-| ------- | ---- |
-| shampagne | 1936 |
-| potatoes| 1950 |
-| pineapples | 1986 |
-| nutella | 2001 |
 
-<table border="1">
-<tr>
-  <td>100</td>
-  <td>200</td>
-  <td>300</td>
-</tr>
-<tr>
-  <td>400</td>
-  <td>500</td>
-  <td>600</td>
-</tr>
-</table>
+ | content | year|
+ | ------- | --- |
+ | potatoes | 1950 |
 
 Donec consectetur convallis molestie. Morbi ultrices aliquet cursus. Aenean consectetur, nibh a lacinia vehicula, purus justo facilisis justo, vitae auctor mauris felis eu urna. Vestibulum tincidunt diam vehicula, interdum elit vitae, iaculis felis. Praesent lacinia urna a felis aliquet aliquam. Mauris massa ipsum, aliquet vitae varius a, fringilla interdum metus. Maecenas dignissim odio at laoreet volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget scelerisque ante, ut luctus diam. Aliquam nunc mi, lobortis eu nibh et, interdum convallis nunc. Nam et malesuada quam. Curabitur at tempus leo. In malesuada sed risus et imperdiet. Vestibulum euismod enim mauris, ut mattis dui blandit quis. Donec in vulputate lectus, quis cursus velit. Pellentesque sem quam, posuere et ultrices vitae, ultrices ac nunc.
 
