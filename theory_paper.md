@@ -32,6 +32,19 @@ pandoc theory_paper.md -o theory_paper.pdf
 | pineapples | 1986 |
 | nutella | 2001 |
 
+<table border="1">
+<tr>
+  <td>100</td>
+  <td>200</td>
+  <td>300</td>
+</tr>
+<tr>
+  <td>400</td>
+  <td>500</td>
+  <td>600</td>
+</tr>
+</table>
+
 Donec consectetur convallis molestie. Morbi ultrices aliquet cursus. Aenean consectetur, nibh a lacinia vehicula, purus justo facilisis justo, vitae auctor mauris felis eu urna. Vestibulum tincidunt diam vehicula, interdum elit vitae, iaculis felis. Praesent lacinia urna a felis aliquet aliquam. Mauris massa ipsum, aliquet vitae varius a, fringilla interdum metus. Maecenas dignissim odio at laoreet volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget scelerisque ante, ut luctus diam. Aliquam nunc mi, lobortis eu nibh et, interdum convallis nunc. Nam et malesuada quam. Curabitur at tempus leo. In malesuada sed risus et imperdiet. Vestibulum euismod enim mauris, ut mattis dui blandit quis. Donec in vulputate lectus, quis cursus velit. Pellentesque sem quam, posuere et ultrices vitae, ultrices ac nunc.
 
 Vestibulum interdum urna nibh, eu convallis libero consequat nec. Pellentesque in tincidunt nisi, sed tristique tellus. Cras mauris diam, tempus vel lectus vel, placerat dictum urna. Suspendisse blandit felis nec convallis sollicitudin. Morbi vitae vehicula odio. Phasellus interdum vestibulum ligula, nec faucibus diam pharetra ut. Praesent suscipit bibendum dui, viverra porttitor magna dictum et. Nunc suscipit adipiscing pharetra. Morbi suscipit sit amet sapien in pellentesque. Aliquam erat volutpat. Morbi viverra pretium tincidunt. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque dapibus sapien non ornare fringilla. Suspendisse facilisis ipsum vitae interdum sollicitudin. 
