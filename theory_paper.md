@@ -24,7 +24,9 @@ pandoc theory_paper.md -o theory_paper.pdf
  The structure should be more complicated.
  
 ## An example
- - [russian string bag](http://en.wikipedia.org/wiki/String_bag)
+- [russian string bag](http://en.wikipedia.org/wiki/String_bag)
+! [avoska](http://upload.wikimedia.org/wikipedia/commons/b/b8/String_bag.jpg) 
+
  
  Donec consectetur convallis molestie. Morbi ultrices aliquet cursus. Aenean consectetur, nibh a lacinia vehicula, purus justo facilisis justo, vitae auctor mauris felis eu urna. Vestibulum tincidunt diam vehicula, interdum elit vitae, iaculis felis. Praesent lacinia urna a felis aliquet aliquam. Mauris massa ipsum, aliquet vitae varius a, fringilla interdum metus. Maecenas dignissim odio at laoreet volutpat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus eget scelerisque ante, ut luctus diam. Aliquam nunc mi, lobortis eu nibh et, interdum convallis nunc. Nam et malesuada quam. Curabitur at tempus leo. In malesuada sed risus et imperdiet. Vestibulum euismod enim mauris, ut mattis dui blandit quis. Donec in vulputate lectus, quis cursus velit. Pellentesque sem quam, posuere et ultrices vitae, ultrices ac nunc.
 
