@@ -57,7 +57,7 @@ Vestibulum interdum urna nibh, eu convallis libero consequat nec. Pellentesque i
 
 # Acknowledgements
 
-![avoska] (http://www.google.com/search?q=avoska&client=safari&rls=en&tbm=isch&source=iu&imgil=JKnMuWQOuqY3uM%253A%253Bhttp%253A%252F%252Ft0.gstatic.com%252Fimages%253Fq%253Dtbn%253AANd9GcT1c-zBhPD4aPfyAFgI7U5iZ9pRiR3QwL3Mw0G3cXbCA8vxrpLSvA%253B200%253B241%253BZugRYHZ1RahFVM%253Bhttp%25253A%25252F%25252Fwww.natashascafe.com%25252Fhtml%25252Fbag.html&sa=X&ei=ef3fUqCxM4yQ4gSRyICADg&ved=0CC8Q9QEwAg&biw=1276&bih=684)
+- [avoska] (http://en.wikipedia.org/wiki/String_bag)
 
 
 
